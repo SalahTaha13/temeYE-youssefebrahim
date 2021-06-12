@@ -2,7 +2,7 @@
 
 
 <themes>
-<data xmls="https://raw.githubusercontent.com/khater-app/YoTS/master/downloads/xml/" walls="https://raw.githubusercontent.com/khater-app/YoTS/master/downloads/walls/" scs="https://raw.githubusercontent.com/YOUSSEF-MODS/temeYE-youssefebrahim/main/downloads/screens/"/>
+<data xmls="https://raw.githubusercontent.com/YOUSSEF-MODS/temeYE-youssefebrahim/main/downloads/" walls="https://raw.githubusercontent.com/YOUSSEF-MODS/temeYE-youssefebrahim/main/downloads/walls/" scs="https://raw.githubusercontent.com/YOUSSEF-MODS/temeYE-youssefebrahim/main/downloads/screens/"/>
 
 
 
@@ -13,6 +13,6 @@
 </theme>
 
 <theme>
-<title>aero1</title>
-<date>By Marshmello</date>
+<title>Youssef Ebrahim</title>
+<date>By Youssef</date>
 </theme>
